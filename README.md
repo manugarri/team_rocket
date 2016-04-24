@@ -13,3 +13,6 @@
 
 We use a custom MLP to predict the PHA label from the list of daily orbits provided by the Minor Planet Center
 We also have a tweet bot that updates the number of PHA that exist currently.
+
+
+To run the tweet status update, just run `python asteroid_hunter.py`, you will need a OAUTH twitter api key
